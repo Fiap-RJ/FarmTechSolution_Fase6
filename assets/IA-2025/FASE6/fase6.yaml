@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/IA-2025/FASE6/images/train/
+val: /content/drive/MyDrive/IA-2025/FASE6/images/val
+
+names:
+  0: "furadeira"
+  1: "grampeador"
